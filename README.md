@@ -4,7 +4,7 @@ An n8n automation that turns a list of leads into **personalised cold emails**. 
 
 **Stack:** n8n (self-hosted) · Google Gemini · Google Sheets API · Gmail API
 
-<!-- Add a screenshot of the workflow canvas here: ![Workflow](docs/workflow.png) -->
+<img width="1150" height="667" alt="Workflow" src="https://github.com/user-attachments/assets/dc02ca8b-4c2c-47b3-abbd-b4b9b32b97f3" />
 
 ## The problem
 
